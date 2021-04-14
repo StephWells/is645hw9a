@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "Ex3: Playing with Dates",
+    "main": "index.js",
+    "author": "Stepahnie",
+    "license": "",
+    "dependencies": {
+      "moment": "2.29.1"
+    }
+  }
